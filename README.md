@@ -1,3 +1,2 @@
 # MonteCarlo_Simulation
-Applying MonteCarlo to simulate stock price
-Using Plotly to visualize
+Applying MonteCarlo to simulate stock price and using Plotly to visualize
